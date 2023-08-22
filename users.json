@@ -1,0 +1,150 @@
+  {
+    "id": 354,
+    "name": "Gabriel",
+    "account": {
+      "id": 363,
+      "number": "101010-1",
+      "agency": "10101",
+      "balance": 0,
+      "limit": 0
+    },
+    "card": {
+      "id": 342,
+      "number": "**** **** **** 5673",
+      "limit": 0
+    },
+    "features": [
+      {
+        "id": 119,
+        "icon": "string",
+        "description": "string"
+      }
+    ],
+    "news": [
+      {
+        "id": 1328,
+        "icon": "string",
+        "description": "string"
+      }
+    ]
+  },
+  {
+    "id": 355,
+    "name": "Gabriella",
+    "account": {
+      "id": 364,
+      "number": "46723-1",
+      "agency": "7651",
+      "balance": 0,
+      "limit": 500
+    },
+    "card": {
+      "id": 343,
+      "number": "**** **** **** 6431",
+      "limit": 1000
+    },
+    "features": [
+      {
+        "id": 120,
+        "icon": "string",
+        "description": "string"
+      }
+    ],
+    "news": [
+      {
+        "id": 1329,
+        "icon": "string",
+        "description": "string"
+      }
+    ]
+  },
+  {
+    "id": 356,
+    "name": "Arthur",
+    "account": {
+      "id": 365,
+      "number": "53463-8",
+      "agency": "5428",
+      "balance": 0,
+      "limit": 5000
+    },
+    "card": {
+      "id": 344,
+      "number": "**** **** **** 2357",
+      "limit": 1000
+    },
+    "features": [
+      {
+        "id": 121,
+        "icon": "string",
+        "description": "string"
+      }
+    ],
+    "news": [
+      {
+        "id": 1330,
+        "icon": "string",
+        "description": "string"
+      }
+    ]
+  },
+  {
+    "id": 357,
+    "name": "Gustavo",
+    "account": {
+      "id": 366,
+      "number": "72334-7",
+      "agency": "4123",
+      "balance": 0,
+      "limit": 5000
+    },
+    "card": {
+      "id": 345,
+      "number": "**** **** **** 7657",
+      "limit": 1000
+    },
+    "features": [
+      {
+        "id": 122,
+        "icon": "string",
+        "description": "string"
+      }
+    ],
+    "news": [
+      {
+        "id": 1331,
+        "icon": "string",
+        "description": "string"
+      }
+    ]
+  },
+  {
+    "id": 358,
+    "name": "Luísa",
+    "account": {
+      "id": 367,
+      "number": "15124-2",
+      "agency": "6354",
+      "balance": 0,
+      "limit": 5000
+    },
+    "card": {
+      "id": 346,
+      "number": "**** **** **** 5123",
+      "limit": 1000
+    },
+    "features": [
+      {
+        "id": 123,
+        "icon": "string",
+        "description": "string"
+      }
+    ],
+    "news": [
+      {
+        "id": 1332,
+        "icon": "string",
+        "description": "string"
+      }
+    ]
+  }
